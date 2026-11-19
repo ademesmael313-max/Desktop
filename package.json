@@ -1,0 +1,29 @@
+{
+  "name": "pulse-meter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "preview": "node preview.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ademesmael313-max/Desktop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ademesmael313-max/Desktop/issues"
+  },
+  "homepage": "https://github.com/ademesmael313-max/Desktop#readme",
+  "dependencies": {
+    "lucide-static": "^1.76.0",
+    "systeminformation": "^5.33.23"
+  },
+  "devDependencies": {
+    "electron": "^39.8.10"
+  }
+}
